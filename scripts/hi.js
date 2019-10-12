@@ -9,7 +9,7 @@
     alert( 'Hey Mate!' );
   </script>
 
-  <p>How's it going</p>
+  <p>How's it going?</p>
 
 </body>
 
