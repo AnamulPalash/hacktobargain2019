@@ -27,4 +27,4 @@
 #### Name: [AnamulPalash](https://github.com/AnamulPalash)
 - Place: Sydney, Australia
 - Bio: Traveller
-- GitHub: [curacat](https://github.com/AnamulPalash)
+- GitHub: [AnamulPalash](https://github.com/AnamulPalash)
